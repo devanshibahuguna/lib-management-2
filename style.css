@@ -179,6 +179,9 @@ a:link {
     box-shadow: 0 0 0 rgb(255, 255, 255);
   }
 
+.home-link:visited{
+    color:#3a6163;
+}
 
 
 
